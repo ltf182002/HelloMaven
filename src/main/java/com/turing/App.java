@@ -16,5 +16,7 @@ public class App
         System.out.println("第二次修改的内容");
 
         System.out.println("我是在main分支中写的一句话");
+
+        System.out.println("我是dev分支中写的一句话");
     }
 }
